@@ -25,3 +25,15 @@ jupyter notebook notebooks/diabetes_regression.ipynb
 ### Option 2: Run on Google Colab
 Click the link below to open the notebook directly in Colab:
 [Open diabetes-regression in Colab](https://colab.research.google.com/github/misiakfilip/diabetes-regression/blob/main/notebooks/diabetes-regression.ipynb)
+
+## License
+
+This project is available under the MIT License. See the `LICENSE` file for details.
+
+## Authors
+
+**Filip Misiak**
+
+- GitHub: [@misiakfilip](https://github.com/misiakfilip)
+
+**Adam Kowalczyk**
