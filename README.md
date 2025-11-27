@@ -18,7 +18,9 @@ pip install -r requirements.txt
 
 3. Open the Jupyter notebook or Python file:
 
+```bash
 jupyter notebook notebooks/diabetes_regression.ipynb
+```
 
 ### Option 2: Run on Google Colab
 Click the link below to open the notebook directly in Colab:
